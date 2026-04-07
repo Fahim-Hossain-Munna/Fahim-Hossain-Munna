@@ -6,14 +6,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=0A7F8C&center=true&vCenter=true&lines=Hi+👋,+I'm+Fahim+Hossain+Munna;Backend+Developer;Laravel+Enginner;Building+Scalable+Web+Application" />
 </h1>
 
-<h3 align="center">🇧🇩 Proud Bangladeshi Developer</h3>
-
 <!-- Visitor Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fahim-hossain-munna&label=Profile%20Visitors&color=0a7f8c&style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/fahim-hossain-munna-004a81219/">
+    <img src="https://img.shields.io/badge/LinkedIn-0a7f8c?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
----
+<h3 align="center">🇧🇩 Proud Bangladeshi Developer</h3>
 <!-- Typing Animation -->
 
 ## 🧑‍💻 About Me
@@ -23,28 +24,9 @@
 - 🚀 Working on **E-commerce & LMS Systems**
 - ⚡ Love building scalable & optimized backend systems
 - 🎮 Gamer (PUBG & E-Football)
-- 🍗 Food lover 😄  
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/fahim-hossain-munna-004a81219/">
-    <img src="https://img.shields.io/badge/LinkedIn-0a7f8c?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-  <a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME">
-    <img src="https://img.shields.io/badge/Facebook-0a7f8c?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,vue,html,css,tailwind,bootstrap,nodejs,mysql,git,postman" />
+- 🍗 Food lover 😄
+<p align="left">
+  <img width="500px" height="500px" src="https://skillicons.dev/icons?i=php,laravel,js,vue,html,css,tailwind,bootstrap,nodejs,mysql,git,postman" />
 </p>
 
 ---
@@ -111,3 +93,7 @@ const fahim = {
   goal: "To become a highly skilled Software Engineer and build impactful scalable products 🚀"
 };
 ```
+
+<div align="center">
+  <img height="120" alt="Thanks for visiting me" width="100%"        src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+</div>
