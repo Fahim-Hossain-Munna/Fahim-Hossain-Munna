@@ -13,8 +13,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0a7f8c?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
-<h3 align="center">🇧🇩 Proud Bangladeshi Developer</h3>
 <!-- Typing Animation -->
 
 ## 🧑‍💻 About Me
