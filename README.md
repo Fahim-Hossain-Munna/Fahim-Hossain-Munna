@@ -135,23 +135,6 @@ I enjoy solving complex backend problems, building RESTful APIs, optimizing data
 
 ---
 
-<!-- ===================== GITHUB STATS ===================== -->
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=fahim-hossain-munna&show_icons=true&theme=transparent&title_color=0a7f8c&icon_color=0a7f8c&text_color=808080&hide_border=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahim-hossain-munna&layout=compact&theme=transparent&title_color=0a7f8c&text_color=808080&hide_border=true"
-    height="170"
-  />
-</p>
-
----
-
 <!-- ===================== CONTRIBUTION ===================== -->
 
 ## 🐍 Contribution Activity
