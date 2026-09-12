@@ -1,30 +1,55 @@
-<!-- ===================== HEADER ===================== -->
-
-# 👋 Hi, I'm Fahim Hossain Munaa
-
-<h1 align="center">
-  Backend Developer | PHP & Laravel Engineer
-</h1>
+<!-- ===================== PROFILE HEADER ===================== -->
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0A7F8C&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;PHP+%7C+Laravel+%7C+REST+APIs;Designing+Reliable+Web+Applications;Always+Learning+%26+Improving"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=0A7F8C&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Backend+Developer+%7C+PHP+%26+Laravel+Engineer;Building+Scalable+%26+Reliable+Web+Applications"
+    alt="Typing Animation"
   />
 </p>
 
+<h1 align="center">
+  Fahim Hossain Munaa
+</h1>
+
 <p align="center">
-  <a href="https://github.com/fahim-hossain-munna">
-    <img src="https://komarev.com/ghpvc/?username=fahim-hossain-munna&label=Profile%20Views&color=0a7f8c&style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/fahim-hossain-munna-004a81219/">
-    <img src="https://img.shields.io/badge/LinkedIn-0a7f8c?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://fhmunna.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0a7f8c?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  <strong>Backend Developer • PHP & Laravel Engineer</strong>
 </p>
 
----
+<p align="center">
+  <i>
+    Designing robust backend systems, building RESTful APIs,
+    and turning ideas into scalable web applications.
+  </i>
+</p>
+
+<p align="center">
+  <code>PHP</code>
+  <code>Laravel</code>
+  <code>REST APIs</code>
+  <code>MySQL</code>
+  <code>Docker</code>
+</p>
+
+<p align="center">
+  <a href="https://fhmunna.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/Portfolio-0A7F8C?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Portfolio"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/fahim-hossain-munna-004a81219/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A7F8C?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="https://github.com/fahim-hossain-munna">
+    <img
+      src="https://komarev.com/ghpvc/?username=fahim-hossain-munna&label=Profile%20Views&color=0a7f8c&style=for-the-badge"
+      alt="Profile Views"
+    />
+  </a>
+</p>
 
 <!-- ===================== ABOUT ME ===================== -->
 
