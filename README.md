@@ -25,6 +25,8 @@
 <p align="center">
   <code>PHP</code>
   <code>Laravel</code>
+  <code>JavaScript</code>
+  <code>Vue.js</code>
   <code>REST APIs</code>
   <code>MySQL</code>
   <code>Docker</code>
