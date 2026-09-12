@@ -1,11 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0a7f8c&height=230&section=header&text=Fahim%20Hossain%20Munna&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
-    width="100%"
-  />
-</p>
+# 👋 Hi, I'm Fahim Hossain Munaa
 
 <h1 align="center">
   Backend Developer | PHP & Laravel Engineer
@@ -119,6 +114,7 @@ I enjoy solving complex backend problems, building RESTful APIs, optimizing data
 ✔ Integrate third-party services and payment gateways
 ✔ Work with queues, caching, events, and background jobs
 ✔ Collaborate on frontend and backend architecture
+```
 
 <!-- ===================== CURRENT FOCUS ===================== -->
 
