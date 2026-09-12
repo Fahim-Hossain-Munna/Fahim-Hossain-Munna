@@ -30,33 +30,6 @@
   <code>Docker</code>
 </p>
 
-<!-- ===================== SOCIAL LINKS ===================== -->
-
-<p align="center">
-  <a href="https://fhmunna.vercel.app/">
-    <img
-      src="https://img.shields.io/badge/Portfolio-0A7F8C?style=flat-square&logo=vercel&logoColor=white"
-      alt="Portfolio"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/fahim-hossain-munna-004a81219/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A7F8C?style=flat-square&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-  <a href="https://github.com/fahim-hossain-munna">
-    <img
-      src="https://img.shields.io/badge/GitHub-0A7F8C?style=flat-square&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
-  <img
-    src="https://komarev.com/ghpvc/?username=fahim-hossain-munna&label=Profile%20Views&color=0A7F8C&style=flat-square"
-    alt="Profile Views"
-  />
-</p>
-
 <!-- ===================== ABOUT ME ===================== -->
 
 ## 👨‍💻 About Me
